@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>曾明旺 - 后端魔法师</title>
+  <title>曾明旺 - 后端工程师</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -56,9 +56,9 @@
     <p>嗨！我是曾明旺，一位充满创造力的后端工程师，专注于编织代码的魔法。</p>
     <p class="quote">"在数据的海洋中航行，用技术驾驭未来。"</p>
     <div class="skills">
-      <span class="skill">Java</span>
-      <span class="skill">Spring Boot</span>
-      <span class="skill">RESTful API</span>
+      <span class="skill">Golang</span>
+      <span class="skill">Beego</span>
+      <span class="skill">Gin</span>
       <span class="skill">数据库设计</span>
       <span class="skill">问题解决</span>
       <span class="skill">团队合作</span>
